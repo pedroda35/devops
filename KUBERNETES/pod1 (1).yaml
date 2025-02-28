@@ -10,3 +10,4 @@ spec:
       - configMapRef:
           name: datos-mysql-env
   restartPolicy: Never
+pedrito
