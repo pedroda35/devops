@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web-d-777b977ff9
-        image: apasoft/sonda-web:latest
+        image: pedroda/sonda-web:v1
         ports:
         - containerPort: 80
         livenessProbe:
